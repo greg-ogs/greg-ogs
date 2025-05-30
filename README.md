@@ -1,4 +1,4 @@
-# Gregorio A. Oropeza Gomez
+# Greg
 
 ## 👨‍💻 ML Engineer | DevOps Engineer
 
