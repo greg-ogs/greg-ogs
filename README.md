@@ -17,8 +17,8 @@ I have a Master of Science and specialized in pattern recognition, robotics and 
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=greg-ogs&show_icons=true&theme=synthwave" alt="GitHub Stats" width="32%"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greg-ogs&layout=compact&theme=dracula&size_weight=0.2&count_weight=1.2" alt="Top Languages" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greg-ogs&theme=synthwave" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greg-ogs&layout=compact&theme=dracula&size_weight=0.2&count_weight=1.2" alt="Top Languages" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greg-ogs&theme=synthwave" alt="GitHub Streak" width="47%"/>
 </div>
 
 [//]: # (<div align="center">)
