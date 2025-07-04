@@ -29,33 +29,40 @@ I have a Master of Science and specialized in pattern recognition, robotics and 
 
 [//]: # (</div>)
 
-## 🚀 Experience
+[//]: # (## 🚀 Experience)
 
-### Application Support Analyst
-**[EPAM Systems](https://www.epam.com/)** *(03/2025 - present)*
+[//]: # ()
+[//]: # ([//]: # &#40;### Application Support Analyst&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;**[EPAM Systems]&#40;https://www.epam.com/&#41;** *&#40;03/2025 - 06/2025&#41;*&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;**Technologies:** GCP, Docker, Kubernetes, Python, Bash, Linux, Terraform, Github Actions, Jenkins&#41;)
+[//]: # ()
+[//]: # (### Research Intern)
 
-**Technologies:** GCP, Docker, Kubernetes, Python, Bash, Linux, Terraform, Github Actions, Jenkins
+[//]: # (**Secretaría de Ciencia, Humanidades, Tecnología e Innovación** *&#40;08/2023 - present&#41;*)
 
-### Research Intern
-**Secretaría de Ciencia, Humanidades, Tecnología e Innovación** *(08/2023 - present)*
+[//]: # ()
+[//]: # (**Skills:** Python, Machine Learning, Computational Intelligence, Systems Modeling, Control Algorithms, C++, Assembly)
 
-**Skills:** Python, Machine Learning, Computational Intelligence, Systems Modeling, Control Algorithms, C++, Assembly
+[//]: # ()
+[//]: # (### Lead Project Engineer)
 
-### Lead Project Engineer
-**Minotex** *(02/2023 - 02/2024)*
+[//]: # (**Minotex** *&#40;02/2023 - 02/2024&#41;*)
 
-**Technologies:** Six Sigma, ISO, Team Management, Resources Management
+[//]: # ()
+[//]: # (**Technologies:** Six Sigma, ISO, Team Management, Resources Management)
 
-## 📚 Publications
-
-- [High-Precision Spatial Filtering with AI-Driven Control and Multicolor Laser Testing for Interferometric Application](https://doi.org/10.1016/j.vlsi.2025.102406) - ML controller for JCR paper
-- [2D automatic alignment of optical spatial filtering system by PID control](https://dx.doi.org/10.1109/ROPEC55836.2022.10018654) - Conference proceedings
-- Laser beam centroid detection for automatic spatial filtering: a comparative analysis of machine vision algorithms - LNCS in press
+## 📚 Check my papers
+- [Laser beam centroid detection for automatic spatial filtering: a comparative analysis of machine vision algorithms](https://doi.org/10.1007/978-3-031-96255-4_22) - Lecture Notes in Computer Science
+- [High-Precision Spatial Filtering with AI-Driven Control and Multicolor Laser Testing for Interferometric Application](https://doi.org/10.1016/j.vlsi.2025.102406) - Integration, the VLSI Journal
+- [2D automatic alignment of optical spatial filtering system by PID control](https://dx.doi.org/10.1109/ROPEC55836.2022.10018654) - ROPEC 2022
 
 ## 🎓 Education & Certifications
 
 - **M.Sc. & Technology** - University of Guadalajara (2025)
 - **B.Sc. Mechatronic** - University of Guadalajara (2022)
+- **DevOps Google Cloud Certification** - EPAM Systems (2025)
 - **Cloud & DevOps Certification** - EPAM Systems (2025)
 - **Java & Spring Boot Certification** - Oracle (2023)
 
@@ -72,9 +79,9 @@ I have a Master of Science and specialized in pattern recognition, robotics and 
 - Linux (5 years) ⭐⭐⭐⭐
 - Docker (5 years) ⭐⭐⭐⭐
 - MySQL Server (4 years) ⭐⭐⭐⭐
-- Kubernetes (1 year) ⭐⭐⭐
-- AWS (1 year) ⭐⭐
-- GCP (<1 year) ⭐⭐
+- Kubernetes (3 year) ⭐⭐⭐
+- AWS (2 year) ⭐⭐
+- GCP (2 year) ⭐⭐
 
 ### Frameworks & Libraries
 - Tensorflow (4 years) ⭐⭐⭐⭐
@@ -89,8 +96,7 @@ I have a Master of Science and specialized in pattern recognition, robotics and 
 - CI/CD GitHub Actions (3 years) ⭐⭐⭐
 - CI/CD Jenkins (1 year) ⭐⭐
 - ETL/ELT AWS Glue (1 year) ⭐⭐
-- ETL/ELT GCD (1 year) ⭐⭐
 
 ### Languages
 - Spanish (Native)
-- English (B2 Proficient)
+- English (C2 Proficient)
