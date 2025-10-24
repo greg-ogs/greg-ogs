@@ -7,8 +7,27 @@ Specialist in **Machine Learning**, **System Orchestration**, **Python**, and **
 
 ## 🔍 About Me
 
-I have a Master of Science and specialized in pattern recognition, robotics and DevOps areas. Specialist in computational intelligence algorithms (Neural networks, fuzzy algorithms and evolution algorithms), optical instrumentation, embedded systems, machine vision and machine learning. DevOps and orchestration; GCP, AWS. Terraform, openTofu, Python, C++, assembly, Go and Java. Flask, OpenCV, Scikit, TF, Pandas, PySpark, PyTorch, Django, Pillow.
+Researcher | Platform Engineer | Algorithms Engineer
 
+Master of Science with expertise in embedded systems, infrastructure and software development. I specialize in algorithm design, optical instrumentation, pattern recognition and machine vision, applying these skills to robotics and software development. My proficiency extends to both cloud and local infrastructure, making me a versatile professional in infrastructure design and technical problem-solving.
+
+Proficiency in:
+
+- Python and their ML and DeepL libraries like scikit and TensorFlow.
+
+- C++ for embedded systems and libraries like OpenCV, TensorFlow and specific hardware drivers like Real sense cameras.
+
+- Linux, sh and bash scripting.
+
+- Laser Interferometry.
+
+- Control algorithms.
+
+- Docker and Kubernetes.
+
+- GCP and AWS.
+
+- Delta and Siemens industrial automatization.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gregorio-alejandro-oropeza-gómez)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/greg-ogs)
@@ -58,46 +77,3 @@ I have a Master of Science and specialized in pattern recognition, robotics and 
 - [Laser beam centroid detection for automatic spatial filtering: a comparative analysis of machine vision algorithms](https://doi.org/10.1007/978-3-031-96255-4_22) - Lecture Notes in Computer Science
 - [High-Precision Spatial Filtering with AI-Driven Control and Multicolor Laser Testing for Interferometric Application](https://doi.org/10.1016/j.vlsi.2025.102406) - Integration, the VLSI Journal
 - [2D automatic alignment of optical spatial filtering system by PID control](https://dx.doi.org/10.1109/ROPEC55836.2022.10018654) - ROPEC 2022
-
-## 🎓 Education & Certifications
-
-- **M.Sc. & Technology** - University of Guadalajara (2025)
-- **B.Sc. Mechatronic** - University of Guadalajara (2022)
-- **DevOps Google Cloud Certification** - EPAM Systems (2025)
-- **Cloud & DevOps Certification** - EPAM Systems (2025)
-- **Java & Spring Boot Certification** - Oracle (2023)
-
-## 💻 Skills
-
-### Programming & Scripting Languages
-- Python (5 years) ⭐⭐⭐⭐
-- Bash Scripting (4 years) ⭐⭐⭐
-- C++ (5 years) ⭐⭐⭐⭐
-- Java (3 years) ⭐⭐
-- Kotlin (1 year) ⭐⭐
-
-### Platforms and Server Technology
-- Linux (5 years) ⭐⭐⭐⭐
-- Docker (5 years) ⭐⭐⭐⭐
-- MySQL Server (4 years) ⭐⭐⭐⭐
-- Kubernetes (3 year) ⭐⭐⭐
-- AWS (2 year) ⭐⭐
-- GCP (2 year) ⭐⭐
-
-### Frameworks & Libraries
-- Tensorflow (4 years) ⭐⭐⭐⭐
-- Scikit learn (4 years) ⭐⭐⭐⭐
-- OpenCV (5 years) ⭐⭐⭐⭐
-- PySpark (2 years) ⭐⭐⭐
-- Flask ⭐⭐⭐
-- Spring & Spring Boot ⭐⭐
-
-### Development Tools
-- Git (5 years) ⭐⭐⭐⭐⭐
-- CI/CD GitHub Actions (3 years) ⭐⭐⭐
-- CI/CD Jenkins (1 year) ⭐⭐
-- ETL/ELT AWS Glue (1 year) ⭐⭐
-
-### Languages
-- Spanish (Native)
-- English (C2 Proficient)
